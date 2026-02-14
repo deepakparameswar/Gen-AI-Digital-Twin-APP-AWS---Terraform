@@ -1,0 +1,25 @@
+{
+  "full_name": "Deepak K",
+  "name": "DPK",
+  "current_role": "FullStack Engineer",
+  "location": "India",
+  "email": "dpk@example.com",
+  "linkedin": "https://www.linkedin.com/in/deepak-k-57b8289a/",
+  "specialties": [
+    "AI",
+    "LLM Engineering",
+    "JAVA",
+    "KAFKA",
+    "JAVASCRIPT",
+    "AWS",
+    "UI Technologies"
+  ],
+  "years_experience": 7,
+  "education": [
+    {
+      "degree": "MCA",
+      "institution": "KTU",
+      "year": "2019"
+    }
+  ]
+}

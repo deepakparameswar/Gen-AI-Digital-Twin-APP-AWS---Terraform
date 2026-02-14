@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.next/
+
+lambda-deployment.zip
+lambda-package/
